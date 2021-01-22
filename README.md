@@ -8,6 +8,6 @@
 
 #### One Click deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NikhilNGY/NGY_TELEGRAPH_BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/NGY_TELEGRAPH_BOT)
 
 
